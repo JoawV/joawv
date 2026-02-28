@@ -1,11 +1,3 @@
-<h2 align="left">Olá! Eu sou João Vítor!</h2>
-
-###
-
-<h5 align="left">- Estudante de Desenvolvimento de Sistemas<br>- Procurando me especializar em desenvolvimento Full-Stack</h5>
-
-###
-
 <h3 align="left">Redes sociais</h3>
 
 ###
